@@ -1,6 +1,6 @@
-# Sonic the Hedgehog (Phaser.io)
+# Sonic the Hedgehog Javascript Game
 
-Demo: https://rzencoder.github.io/sonic-hedgehog-phaser/
+Demo: https://rzencoder.github.io/sonic-hedgehog-game/
 
 Made a platform game to practice Javascript skills using the phaser.io framework
 
